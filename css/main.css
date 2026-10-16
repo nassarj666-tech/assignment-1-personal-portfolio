@@ -1,0 +1,145 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h2 {
+    color: darkblue;
+    width: 100%;
+}
+
+h3 {
+    color: darkblue;
+}
+
+h4 {
+    color: darkblue;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* .w-100 {
+    width: 100%;
+}  */
+
+.text-center {
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(0, 140, 255);
+    border-radius: 20px;
+    color: rgba(255, 255, 255);
+    text-align: center;
+    height: 200px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 20px;
+}
+
+button {
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.139);
+    border: 1px solid;
+    color: white;
+    height: 40px;
+    width: 150px;
+}
+
+.about-me {
+    border-radius: 20px;
+    background-color: rgba(211, 211, 211, 0.322);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 15%;
+    border-radius: 100%;
+    float: left;
+    height: 10%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.about-me p {
+    float: left;
+    width: 75%;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+#pragraf {
+    width: 100%;
+}
+
+#git-hub {
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    border: 1px solid;
+    color: white;
+    width: 150px;
+    height: 50px;
+}
+
+.my-skills {
+
+    border-radius: 20px;
+    background-color: rgba(211, 211, 211, 0.322);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.inner {
+    width: 25%;
+    height: 25%;
+    border: rgba(211, 211, 211, 0.322) 3px solid;
+    float: left;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+
+.experience {
+
+    border-radius: 20px;
+    background-color: rgba(211, 211, 211, 0.322);
+}
+
+.senior {
+    background-color: rgba(211, 211, 211, 0.322);
+    border-left: 7px solid rgba(0, 81, 255, 0.744);
+    border-radius: 20px;
+    float: left;
+    margin: 10px;
+    width: 80%;
+}
+
+.front {
+    background-color: rgba(211, 211, 211, 0.322);
+    border-left: 7px solid rgba(0, 81, 255, 0.744);
+    border-radius: 20px;
+    float: left;
+    margin: 10px;
+    width: 80%;
+}
+
+.contact {
+    background-color: rgb(0, 140, 255);
+    color: white;
+    height: 200px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 20px;
+    margin: 10px;
+}
